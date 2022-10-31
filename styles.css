@@ -1,0 +1,325 @@
+.header{
+    background: rgba(255, 113, 67, 0.27);
+}
+.group0{
+    max-width: 1800px;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.button_up{
+    width: 175px;
+    height: 65px;
+    right: 14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #e9a247;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    transition: 0.2s;
+    left: 500px;
+    top: 0px; 
+}
+.button_up:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(235, 195, 88);
+}
+.button_up:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(196, 167, 6)
+}
+.Header_1{
+    max-width: 1250px;
+    margin: 0px auto 0px 109px
+    
+}
+.header_ul{
+    display: flex;
+    list-style-type:none;
+}
+.header_li{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.header_link{
+    text-decoration:none;
+    color:black;
+}
+.First{
+    position: absolute;
+    left: 600px;
+    top: 175px;
+}
+.Img1{
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    left: 1500px;
+    top: 200px;
+}
+.Img2{
+    position: absolute;
+    width: 700;
+    height: 700px;
+    left: 505px;
+    top: 1000px;
+
+}
+.Second{
+    position: absolute;
+    left: 1250px;
+    top: 1250px;
+    font-size: 50px;
+    line-height: 1px;
+    letter-spacing: -1px;
+    font-style: normal;
+}
+.Second_Button{
+    width: 175px;
+    height: 65px;
+    right: 14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #3a0c8f;
+    color: #ffffff;
+    border-radius: 10px;
+    transition: 0.2s;
+    position: absolute;
+    left: 350px;
+    top: 700px;
+}
+.Second_Button:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(49, 70, 187);
+}
+.Second_Button:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(60, 99, 206)
+}
+.Grow{
+    font-family: DM Sans;
+    font-size: 150px;
+    line-height: 1px;
+    letter-spacing: -2.5px;
+    font-style: normal;
+}
+.Grow_1{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: #696871;
+    position: relative;
+    top: -70px;
+    left: 100px;
+}
+.third_Button{
+    width: 175px;
+    height: 65px;
+    right: 14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #e7e7e7;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    transition: 0.2s;
+    left: 100px;
+    top: -50px; 
+}
+.third_Button:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(44, 45, 49);
+}
+.third_Button:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(55, 57, 65)
+}
+.Form{
+    position: relative;
+    left: 150px;
+    top: 25px;
+}
+.form1{
+    font-size: 20px;
+    width: 500px;
+    height: 50px;
+    color: rgb(0, 0, 0);
+    
+}
+.fourth_Button{
+    width: 175px;
+    height: 65px;
+    right: 14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #3a0c8f;
+    color: #ffffff;
+    border-radius: 10px;
+    transition: 0.2s;
+    position: absolute;
+    left: 350px;
+    top: 250px;
+}
+.fourth_Button:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(49, 70, 187);
+}
+.fourth_Button:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(60, 99, 206)
+}
+.Get1{
+    font-size: 55px;
+    letter-spacing: -2.5px;
+    font-style: normal;
+    position: relative;
+    top: 1600px;
+    left: 910px;
+}
+.Get{
+    font-size: 55px;
+    letter-spacing: -2.5px;
+    font-style: normal;
+    position: relative;
+    top: 1600px;
+    left: 1000px;
+}
+.First-buy{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #645959;
+    border-radius: 25px;
+    height: 500px;
+    width: 330px;
+    position: relative;
+    left: 500px;
+    top: 1600px;
+    border-radius: 10px;
+    font-size: 31px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.FB-Button{
+    width: 175px;
+    height: 75px;
+    right: 14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #e7e7e7;
+    color: rgb(46, 44, 165);
+    border-radius: 10px;
+    transition: 0.2s;
+    left: 11px;
+    top: 0; 
+}
+.FB-Button:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(44, 45, 49);
+}
+.FB-Button:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(55, 57, 65)
+}
+.SB_Button{
+    width:175px;
+    height:75px;
+    right:14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #e7e7e7;
+    color: rgb(46, 44, 165);
+    border-radius: 10px;
+    transition: 0.2s;
+    left: 5px;
+    top: 22px; 
+}
+.SB_Button:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(44, 45, 49);
+}
+.SB_Button:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(55, 57, 65)
+}
+.Second-buy{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #523a79;
+    border-radius: 25px;
+    height: 500px;
+    width: 330px;
+    position: relative;
+    left: 400px;
+    top: -496px;
+    border-radius: 10px;
+    font-size: 33px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.Thrid_buy{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #2e6643;
+    border-radius: 25px;
+    height: 500px;
+    width: 330px;
+    position: relative;
+    left: 800px;
+    top: -1027px;
+    border-radius: 10px;
+    font-size: 33px;
+    color: rgb(0, 0, 0);
+    text-align: center;   
+}
+.TB_Button{
+    width:175px;
+    height:75px;
+    right:14px;
+    position: relative;
+    cursor: pointer;
+    border:none;
+    background: #e7e7e7;
+    color: rgb(46, 44, 165);
+    border-radius: 10px;
+    transition: 0.2s;
+    left: 5px;
+}
+.TB_Button:hover{
+    transform:translateY(-5px);
+    box-shadow: 0 7px 0 rgb(44, 45, 49);
+}
+.TB_Button:active{
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 rgb(55, 57, 65)
+}
+.footer {
+    max-width: 2600px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(189, 103, 22);
+    font-family: monospace;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 1800px;
+    left: -8px;
+  }
+
+
